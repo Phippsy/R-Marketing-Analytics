@@ -1,0 +1,15 @@
+# loads in all packages used in the book
+
+packages<-c("ggplot", "lavaan", "semPlot", "corrplot", "multcomp", "car", "psych", "rworldmap", "RColorBrewer")
+# only for first use install.packages(packages)
+library(ggplot)
+library(lavaan)
+library(semPlot)
+library(corrplot)
+library(multcomp)
+library(car)
+library(psych)
+library(rworldmap)
+library(RColorBrewer)
+library(RGoogleAnalytics)
+library(gplots)
